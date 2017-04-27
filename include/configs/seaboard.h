@@ -53,7 +53,6 @@
 /* USB keyboard */
 
 /* LCD support */
-#define CONFIG_SYS_WHITE_ON_BLACK
 
 /* NAND support */
 #define CONFIG_CMD_NAND

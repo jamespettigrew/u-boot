@@ -39,7 +39,6 @@
 /* USB keyboard */
 
 /* LCD support */
-#define CONFIG_SYS_WHITE_ON_BLACK
 
 #include "tegra-common-post.h"
 
