@@ -58,7 +58,6 @@
 
 /* Command definition */
 
-#define CONFIG_CMD_BMODE
 #undef CONFIG_CMD_IMLS
 
 #define CONFIG_BOARD_NAME	EL6Q

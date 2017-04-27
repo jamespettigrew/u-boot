@@ -57,7 +57,6 @@
 #define CONFIG_MXC_USB_FLAGS	0
 
 /* Miscellaneous commands */
-#define CONFIG_CMD_BMODE
 
 #define CONFIG_SYS_MEMTEST_START	0x10000000
 #define CONFIG_SYS_MEMTEST_END		(CONFIG_SYS_MEMTEST_START + (500 << 20))

@@ -45,7 +45,6 @@
 #define CONFIG_CONS_INDEX		1
 
 /* *** Command definition *** */
-#define CONFIG_CMD_BMODE
 
 /* Filesystems / image support */
 

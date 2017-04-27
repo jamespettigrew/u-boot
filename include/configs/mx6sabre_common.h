@@ -40,7 +40,6 @@
 #endif
 
 /* Command definition */
-#define CONFIG_CMD_BMODE
 
 #ifdef CONFIG_SUPPORT_EMMC_BOOT
 #define EMMC_ENV \

@@ -42,7 +42,6 @@
 #define CONFIG_SYS_SPI_ST_ENABLE_WP_PIN
 
 /* Command definition */
-#define CONFIG_CMD_BMODE
 
 #define CONFIG_EXTRA_ENV_SETTINGS \
 	"script=u-boot.scr\0" \

@@ -34,7 +34,6 @@
 #define CONFIG_PHY_SMSC
 
 /* Command definition */
-#define CONFIG_CMD_BMODE
 
 #define CONFIG_ENV_VARS_UBOOT_RUNTIME_CONFIG
 

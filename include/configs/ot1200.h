@@ -102,7 +102,6 @@
 #endif
 
 /* Miscellaneous commands */
-#define CONFIG_CMD_BMODE
 
 #define CONFIG_PREBOOT                 ""
 
